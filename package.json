@@ -1,0 +1,26 @@
+{
+  "name": "orderexpress",
+  "version": "1.0.0",
+  "description": "点餐后台",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/againF/orderExpress.git"
+  },
+  "author": "Alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/againF/orderExpress/issues"
+  },
+  "homepage": "https://github.com/againF/orderExpress#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
